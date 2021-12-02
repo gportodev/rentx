@@ -1,22 +1,22 @@
-import React from "react";
+import React from 'react';
 import {
   useFonts,
   Inter_400Regular,
   Inter_500Medium,
-} from "@expo-google-fonts/inter";
+} from '@expo-google-fonts/inter';
 
 import {
   Archivo_400Regular,
   Archivo_500Medium,
   Archivo_600SemiBold,
-} from "@expo-google-fonts/archivo";
+} from '@expo-google-fonts/archivo';
 
-import { ThemeProvider } from "styled-components";
-import AppLoading from "expo-app-loading";
-import Home from "./src/screens/Home";
-import theme from "./src/styles/theme";
+import { ThemeProvider } from 'styled-components';
+import AppLoading from 'expo-app-loading';
+import { Routes } from './src/routes';
+import theme from './src/styles/theme';
 
-const rentx: React.FC = () => {
+export default function App() {
   const [fontsLoaded] = useFonts({
     Inter_400Regular,
     Inter_500Medium,
@@ -31,9 +31,7 @@ const rentx: React.FC = () => {
 
   return (
     <ThemeProvider theme={theme}>
-      <Home />
+      <Routes />
     </ThemeProvider>
   );
-};
-
-export default rentx;
+}
