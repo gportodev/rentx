@@ -7,6 +7,7 @@ import { BackButton } from '../../../components/BackButton';
 import { Bullet } from '../../../components/Bullet';
 import Button from '../../../components/Button';
 import { PasswordInput } from '../../../components/PasswordInput';
+import api from '../../../services/api';
 
 import {
   Container,
@@ -39,7 +40,7 @@ export function SignUpSecondStep() {
     navigation.goBack();
   }
 
-  function handleRegister() {
+  async function handleRegister() {
     if (!password || !passwordConfirm) {
       return Alert.alert('Preencha ambos os campos');
     }
@@ -48,11 +49,23 @@ export function SignUpSecondStep() {
       return Alert.alert('Senhas não conferem');
     }
 
-    navigation.navigate('Confirmation', {
-      title: 'Conta Criada!',
-      message: `Agora é só fazer login\n e aproveitar`,
-      nextScreenRoute: 'SignIn',
-    });
+    await api
+      .post('/users', {
+        name: user.name,
+        email: user.email,
+        driver_license: user.driverLicense,
+        password,
+      })
+      .then(() => {
+        navigation.navigate('Confirmation', {
+          title: 'Conta Criada!',
+          message: `Agora é só fazer login\n e aproveitar`,
+          nextScreenRoute: 'SignIn',
+        });
+      })
+      .catch(error => {
+        Alert.alert('Opa', 'Não foi possível cadastrar');
+      });
   }
 
   return (
