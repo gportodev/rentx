@@ -13,9 +13,14 @@ import {
 
 import { ThemeProvider } from 'styled-components';
 import AppLoading from 'expo-app-loading';
+import { LogBox } from 'react-native';
 import { Routes } from './src/routes';
 import theme from './src/styles/theme';
 import { AppProvider } from './src/hooks';
+
+LogBox.ignoreLogs([
+  'Non-serializable values were found in the navigation state',
+]);
 
 export default function App() {
   const [fontsLoaded] = useFonts({
