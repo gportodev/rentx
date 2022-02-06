@@ -21,13 +21,19 @@
 - Show rented cars;
 - Show profile;
 - Update profile avatar, name and CNH;
+
+## Screenshots
+
 ### Login
 
-![](assets/screenshots/singIn.png)
+![](assets/screenshots/signIn.png)
+
 ### SignUp
 
-![](assets/screenshots/singUpFirst.png)
-![](assets/screenshots/singUpSecond.png)
+![](assets/screenshots/signUpFirst.png)
+![](assets/screenshots/signUpSecond.png)
+
+
 ### Home
 
 ![](assets/screenshots/home.png)
