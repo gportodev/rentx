@@ -1,4 +1,5 @@
 # rentx
+
 ## Requirements
 
 - Package manager: Yarn/Npm;
@@ -33,7 +34,6 @@
 ![](assets/screenshots/signUpFirst.png)
 ![](assets/screenshots/signUpSecond.png)
 
-
 ### Home
 
 ![](assets/screenshots/home.png)
@@ -41,17 +41,15 @@
 ### Car
 
 ![](assets/screenshots/car.png)
-
 ![](assets/screenshots/car2.png)
-
 ![](assets/screenshots/schedule.png)
-
 ![](assets/screenshots/scheduleDetails.png)
-
 ![](assets/screenshots/confirmation.png)
+
 ### My cars
 
-![](assets/mycars.png)
+![](assets/screenshots/mycars.png)
+
 ### Profile
 
-![](assets/profile.png)
+![](assets/screenshots/profile.png)
