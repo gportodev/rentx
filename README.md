@@ -20,11 +20,11 @@
 
 <div align="center">
   
-![singup](https://user-images.githubusercontent.com/34238796/153010817-1be26e51-fc66-480a-ba92-0605ef79584d.gif)
 ![basic](https://user-images.githubusercontent.com/34238796/152820871-abcc6bf8-df19-4b86-b778-08215cc86f46.gif)
 ![schedule](https://user-images.githubusercontent.com/34238796/152821496-87ebdb57-b3d5-4ab8-aeb9-96cbd1484f23.gif)
   
 </div>
+
 ## How To Use
 
 ```
