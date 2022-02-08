@@ -21,7 +21,7 @@
 
 ![singup](https://user-images.githubusercontent.com/34238796/152820233-3656da0d-d5c1-4635-be58-465f6f826d8a.gif)
 ![basic](https://user-images.githubusercontent.com/34238796/152820871-abcc6bf8-df19-4b86-b778-08215cc86f46.gif)
-![schedule](https://user-images.githubusercontent.com/34238796/152821496-87ebdb57-b3d5-4ab8-aeb9-96cbd1484f23.gif)[
+![schedule](https://user-images.githubusercontent.com/34238796/152821496-87ebdb57-b3d5-4ab8-aeb9-96cbd1484f23.gif)
 
 ## How To Use
 
