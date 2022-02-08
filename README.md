@@ -18,7 +18,7 @@
 ![basic](https://user-images.githubusercontent.com/34238796/152820871-abcc6bf8-df19-4b86-b778-08215cc86f46.gif)
 ![schedule](https://user-images.githubusercontent.com/34238796/152821496-87ebdb57-b3d5-4ab8-aeb9-96cbd1484f23.gif)
 
-## :information_source: How To Use
+## How To Use
 
 ```
 $ git clone https://github.com/gamonpo/rentx.git
