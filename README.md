@@ -15,7 +15,7 @@
 <div align="center">
   <a href="#how-to-use">How To Use</a>
   |
-  <a href="#additional-notes">Additional information</a>
+  <a href="#additional-notes">Additional notes</a>
 </div>
 <br>
 
@@ -36,22 +36,6 @@ $ yarn run android
 
 $ yarn start
 ```
-
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Additional notes
 
