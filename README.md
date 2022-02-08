@@ -36,6 +36,23 @@ $ yarn run android
 
 $ yarn start
 ```
+
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## Additional notes
 
 In order to run you need to:
