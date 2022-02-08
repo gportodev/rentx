@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/repo-size/gamonpo/rentx"/>
 </p>
 
-<h4 align="center"><a href="">How To Use</a></h3>
+<h4 align="center"><a href="How To Use">How To Use</a></h3>
 <h4 align="center"><a href="">Additional notes</a></h3>
 
 ![singup](https://user-images.githubusercontent.com/34238796/152820233-3656da0d-d5c1-4635-be58-465f6f826d8a.gif)
