@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <a href="#how-to-use">How To Use</a>
+  <a href="#:information_source:how-to-use">How To Use</a>
   |
   <a href="#additional-notes">Additional information</a>
 </div>
