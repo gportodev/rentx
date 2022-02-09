@@ -27,15 +27,21 @@
 
 ## How To Use
 
-```
+
+```bash
+# Clone 
 $ git clone https://github.com/gamonpo/rentx.git
 
+# Go into
 $ cd rentx
 
+# Install dependencies
 $ yarn install
 
+# Build your app
 $ yarn run android
 
+# Run app
 $ yarn start
 ```
 
