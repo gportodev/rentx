@@ -7,11 +7,6 @@
 
 <h3 align="center">Rent a car without any efforts.</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/gamonpo/rentx" type="video/mp4"/>
-  <img src="https://img.shields.io/github/repo-size/gamonpo/rentx"/>
-</p>
-
 <div align="center">
   <a href="#how-to-use">How To Use</a>
   |
